@@ -73,3 +73,8 @@ docs/client/
 
 # --- Test artifacts ---
 .coverage
+
+# --- App runtime data (SQLite DB, uploaded photos, backups) ---
+storage/
+*.db
+*.db-journal
