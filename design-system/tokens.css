@@ -1,0 +1,55 @@
+/* Design Tokens - Auto-generated */
+/* Do not edit directly - modify tokens.json instead */
+
+/* === PRIMITIVES === */
+:root {
+  --primitive-color-plum-50: #F7F1EF;
+  --primitive-color-plum-100: #E4D8D9;
+  --primitive-color-plum-300: #BFAEB6;
+  --primitive-color-plum-500: #726168;
+  --primitive-color-plum-700: #56364A;
+  --primitive-color-plum-800: #3B2431;
+  --primitive-color-plum-900: #2A1A23;
+  --primitive-color-plum-950: #1C1118;
+  --primitive-color-peach-100: #F8EAE2;
+  --primitive-color-peach-200: #F2D9CB;
+  --primitive-color-peach-400: #E8B9A0;
+  --primitive-color-white: #FFFFFF;
+  --primitive-color-green-600: #3E7B5A;
+  --primitive-color-red-600: #B23A3A;
+  --primitive-radius-sm: 8px;
+  --primitive-radius-md: 14px;
+  --primitive-radius-lg: 24px;
+  --primitive-radius-pill: 999px;
+  --primitive-font-display: 'Prata', Georgia, serif;
+  --primitive-font-body: 'Manrope', system-ui, sans-serif;
+}
+
+/* === SEMANTIC === */
+:root {
+  --color-background: #F7F1EF;
+  --color-surface: #FFFFFF;
+  --color-surface-warm: #F8EAE2;
+  --color-foreground: #2A1A23;
+  --color-muted: #726168;
+  --color-border: #E4D8D9;
+  --color-primary: #3B2431;
+  --color-primary-hover: #56364A;
+  --color-on-primary: #FFFFFF;
+  --color-accent: #E8B9A0;
+  --color-success: #3E7B5A;
+  --color-error: #B23A3A;
+}
+
+/* === COMPONENTS === */
+:root {
+  --button-bg: #3B2431;
+  --button-bg-hover: #56364A;
+  --button-fg: #FFFFFF;
+  --button-radius: 999px;
+  --card-bg: #FFFFFF;
+  --card-radius: 14px;
+  --price-retail: #2A1A23;
+  --price-wholesale: #3B2431;
+  --price-wholesale-bg: #F8EAE2;
+}
